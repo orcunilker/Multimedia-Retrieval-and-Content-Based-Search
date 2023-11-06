@@ -1,0 +1,6 @@
+Doc1: a a a a a b c d
+Doc2: a b b b c c c d
+Doc3: b d d d d d d c c
+Doc4: a b c d
+Doc5: a a a
+Doc6: a
