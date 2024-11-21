@@ -1,0 +1,9 @@
+ipython==8.5.0
+ipykernel==6.15.3
+matplotlib==3.6.0
+nbformat==5.9.2
+numpy==1.23.3
+opencv-python==4.6.0.66
+pandas==1.5.0
+scipy==1.9.1
+sklearn==0.0
